@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Swift Artifact Manager logo" width="180">
+</p>
+
 # Artifact Collector
 
 A multi-platform Swift app for managing collections of artifacts (computers, stamps, motorcycles, etc.) with photos/videos, flexible attributes, and iCloud syncing.
